@@ -47,7 +47,9 @@ After observing the differences in quality in both groups, I looked at the type 
 
 <img width="452" height="263" alt="image" src="https://github.com/user-attachments/assets/47c7c118-81b6-4363-83ff-7dc3cd2e1cdb" />
 
+
 <img width="468" height="320" alt="image" src="https://github.com/user-attachments/assets/d8fd5134-e837-4b97-9ef1-15c278d98b46" />
+
 Step 4. Regulatory Impact Analysis
 
 To understand the relationship between contractor usage and penalty, I examined high & low states with their fine amount & staffing ratings along with the facility.
