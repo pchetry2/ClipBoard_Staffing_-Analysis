@@ -7,7 +7,7 @@ Jupyter Notebook contains the complete data analysis of U.S. nursing home staffi
 To understand-
 •	Where are contractors being used most?
 •	Why do some facilities use more contractors than others?
-•	Where are our biggest opportunities for growth?
+•	Where are the biggest opportunities for growth?
 
 # Data Sources
 •	Payroll Based Journal (PBJ) Daily Nurse Staffing[Q2/2024]
