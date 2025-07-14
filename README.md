@@ -1,4 +1,4 @@
-# ClipBoardHealth Nursing Home Staffing Analysis
+# ClipBoard Health Nursing Home Staffing Analysis
 As part of Clipboard Health case challenge,I explored contractor staffing trends in U.S. nursing homes to identify where and why contractors are used and where strategic expansion is possible.
 
 Jupyter Notebook contains the complete data analysis of U.S. nursing home staffing trends using CMS Q2/2024 data.
