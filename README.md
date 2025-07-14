@@ -1,8 +1,10 @@
-# ClipBoardHealth_Staffing_Analysis
+# ClipBoardHealth Nursing Home Staffing Analysis
 As part of Clipboard Health case challenge,I explored contractor staffing trends in U.S. nursing homes to identify where and why contractors are used and where strategic expansion is possible.
 
+Jupyter Notebook contains the complete data analysis of U.S. nursing home staffing trends using CMS Q2/2024 data.
+
 # Problem Statement
-As Clipboard Health provides staffing solutions to Nursing Homes, I wanted to understand-
+To understand-
 •	Where are contractors being used most?
 •	Why do some facilities use more contractors than others?
 •	Where are our biggest opportunities for growth?
@@ -51,7 +53,6 @@ After observing the differences in quality in both groups, I looked at the type 
 <img width="468" height="320" alt="image" src="https://github.com/user-attachments/assets/d8fd5134-e837-4b97-9ef1-15c278d98b46" />
 
 Step 4. Regulatory Impact Analysis
-
 To understand the relationship between contractor usage and penalty, I examined high & low states with their fine amount & staffing ratings along with the facility.
 
 Key Findings:
@@ -134,6 +135,12 @@ Some of the largest untapped markets have low contractor usage but significant s
 •	Facility with high fines but low contractor usage- room for expansion
 •	Lower staffing ratings facility where improvement is needed
 •	Launch educational campaigns to show the benefits of contractors in reducing penalties and improving care.
+
+# Conclusion 
+This analysis shows that contractor usage is influenced more by regulation and turnover than occupancy. Targeting the right states, facility sizes, and ownership types can create meaningful growth for Clipboard Health.
+
+# Tools
+Python - Pandas, Numpy, Matplotlib, Seaborn
 
 
 
